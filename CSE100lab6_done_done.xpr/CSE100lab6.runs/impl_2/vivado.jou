@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Mar  6 16:55:46 2023
+# Process ID: 25304
+# Current directory: C:/Users/danie/OneDrive/Desktop/CSE100lab6/CSE100lab6.runs/impl_2
+# Command line: vivado.exe -log Lab6_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab6_Top.tcl -notrace
+# Log file: C:/Users/danie/OneDrive/Desktop/CSE100lab6/CSE100lab6.runs/impl_2/Lab6_Top.vdi
+# Journal file: C:/Users/danie/OneDrive/Desktop/CSE100lab6/CSE100lab6.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source Lab6_Top.tcl -notrace
