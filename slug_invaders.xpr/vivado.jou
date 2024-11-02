@@ -10,3 +10,5 @@
 # Journal file: C:/Users/danie/OneDrive/Desktop/slug_invaders/slug_invaders.xpr\vivado.jou
 #-----------------------------------------------------------
 start_gui
+open_project C:/Users/danie/OneDrive/Desktop/slug_invaders/slug_invaders.xpr/slug_invaders.xpr
+update_compile_order -fileset sources_1

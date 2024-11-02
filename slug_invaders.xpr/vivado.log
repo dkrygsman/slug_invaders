@@ -10,3 +10,12 @@
 # Journal file: C:/Users/danie/OneDrive/Desktop/slug_invaders/slug_invaders.xpr\vivado.jou
 #-----------------------------------------------------------
 start_gui
+open_project C:/Users/danie/OneDrive/Desktop/slug_invaders/slug_invaders.xpr/slug_invaders.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/danie/OneDrive/Desktop/old courses/CSE100/CSE100lab6_done_done.xpr' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:48 ; elapsed = 00:00:33 . Memory (MB): peak = 681.086 ; gain = 80.402
+update_compile_order -fileset sources_1
